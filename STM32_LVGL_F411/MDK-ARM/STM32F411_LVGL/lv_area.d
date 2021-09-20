@@ -1,0 +1,12 @@
+stm32f411_lvgl\lv_area.o: Lib\lvgl\src\lv_misc\lv_area.c
+stm32f411_lvgl\lv_area.o: Lib\lvgl\src\lv_misc\../lv_conf_internal.h
+stm32f411_lvgl\lv_area.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+stm32f411_lvgl\lv_area.o: Lib\lvgl\src\lv_misc\../../../lv_conf.h
+stm32f411_lvgl\lv_area.o: Lib\lvgl\src\lv_misc\lv_area.h
+stm32f411_lvgl\lv_area.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+stm32f411_lvgl\lv_area.o: D:\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+stm32f411_lvgl\lv_area.o: Lib\lvgl\src\lv_misc\lv_mem.h
+stm32f411_lvgl\lv_area.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+stm32f411_lvgl\lv_area.o: Lib\lvgl\src\lv_misc\lv_log.h
+stm32f411_lvgl\lv_area.o: Lib\lvgl\src\lv_misc\lv_types.h
+stm32f411_lvgl\lv_area.o: Lib\lvgl\src\lv_misc\lv_math.h
